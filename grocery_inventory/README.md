@@ -27,6 +27,7 @@ To exit the program, select option 0.
 # Author
 - name:Miriam Wangui
 - github-https://github.com/veronicah11234/grocery_inventory_management
+- video-https://drive.google.com/file/d/1uZDYYEPkkaBktd0_14Ux3IKn0_E6cSFT/view
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
